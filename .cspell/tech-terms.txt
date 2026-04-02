@@ -50,3 +50,5 @@ reactivations
 whsec
 moonshotai
 kimi
+ilike
+nvmrc
